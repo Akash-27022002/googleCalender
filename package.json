@@ -1,0 +1,25 @@
+{
+  "name": "calender_backend",
+  "version": "1.0.0",
+  "description": "Google Calender API' integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akash-27022002/googleCalender.git"
+  },
+  "author": "Akash Sachan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akash-27022002/googleCalender/issues"
+  },
+  "homepage": "https://github.com/Akash-27022002/googleCalender#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "googleapis": "^118.0.0",
+    "nodemon": "^2.0.22"
+  }
+}
